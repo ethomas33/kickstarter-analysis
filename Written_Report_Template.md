@@ -37,9 +37,12 @@ Very early in the challenge I realized that the file I had been working with fro
 
 - What are some limitations of this dataset?
 
-	A few limitations that would need to be considered: 
+	A few limitations that would need to be considered:
+	
 		- This dataset is pretty old (pre covid) which could skew results. 
+
 		- We are looking indiscriminately around the world. 
+
 		- Further analysis would need to go into looking if events with given goal amounts are evenly distributed or if they are skewed. 
 
 
