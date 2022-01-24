@@ -37,7 +37,12 @@ Very early in the challenge I realized that the file I had been working with fro
 
 - What are some limitations of this dataset?
 
-   This dataet is pretty old (pre covid) which could skew results 
+	A few limitations that would need to be considered: 
+		- This dataet is pretty old (pre covid) which could skew results. 
+		- We are looking undiscrimitively around the world. 
+		- Further analysis would need to go into looking if events with given goal amounts are evenly distributed or if they are skewed. 
 
 
 - What are some other possible tables and/or graphs that we could create?
+
+	The first thing I would create is a table and graph to look at the distribution of events by value, likely stacked bar charts so you can see how many are in each of the outcomes but also the the total in one view. The next thing I would create is an analysis looking at events through history not just the month in which they occured to potentially answer questions like "is Kickstarter still an effective manor of fundraising or has the atmosphere shifted".   
