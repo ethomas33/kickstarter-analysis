@@ -28,10 +28,16 @@ Very early in the challenge I realized that the file I had been working with fro
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-   The conclusions you can draw from this analysis are that while events that fail are relatively consistent through out the year there seems to be a spike in sucessful events that occur in May and a sharp decline that occurs in December. 
+
+   The conclusions you can draw from this analysis are that while events that fail are relatively consistent through out the year there seems to be a spike in sucessful events that are launched in May and a sharp decline that occurs in December. This data implies that one should schedule their event to launch in May. It also implies that there are probably alternative reasons an event fails other than its launch date. 
    
 - What can you conclude about the Outcomes based on Goals?
 
+   This data 
+
 - What are some limitations of this dataset?
+
+   This dataet is pretty old (pre covid) which could skew results 
+
 
 - What are some other possible tables and/or graphs that we could create?
