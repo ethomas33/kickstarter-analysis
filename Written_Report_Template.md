@@ -19,7 +19,7 @@ For this analysis the first steps were to get the data set up properly - dates i
 
 For this analysis once the excel file structure was set up to accommodate the goal dollar levels and values the first step was determining the CountIFS formula needed to get the exact subset of the data we were looking for each field. This was then replicated and adjusted for each of the needed cells changing values and outcomes for all events coded as plays. From there totals were calculated for each goal dollar level and percentages calculated. These values were then translated into a basic excel line chart to visualize the final dataset.  
   
-![Outcomes Based on Goals] (https://github.com/ethomas33/kickstarter-analysis/blob/c3e359dddcee389a10dad40c4afda9343228dcc8/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](https://github.com/ethomas33/kickstarter-analysis/blob/c3e359dddcee389a10dad40c4afda9343228dcc8/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
